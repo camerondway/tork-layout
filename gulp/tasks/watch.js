@@ -15,7 +15,7 @@ gulp.task('watch', function () {
   });
 
   watch(paths.app.stylesAll, function () {
-    gulp.start('styles');
+    gulp.start(['styles', 'styleguide']);
   });
 
   watch(paths.app.imagesSrcAll, function () {

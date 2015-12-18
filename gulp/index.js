@@ -6,6 +6,7 @@ require('./tasks/scripts');
 require('./tasks/icons');
 require('./tasks/modernizr');
 require('./tasks/images');
+require('./tasks/styleguide');
 require('./tasks/usemin');
 require('./tasks/default');
 require('./tasks/watch');

@@ -25,6 +25,7 @@
     "gulp-modernizr": "0.0.0",
     "gulp-postcss": "6.0.1",
     "gulp-rev": "6.0.1",
+    "gulp-styledown": "0.0.2",
     "gulp-stylus": "2.1.0",
     "gulp-svg-sprite": "1.2.14",
     "gulp-svg2png": "0.3.0",
